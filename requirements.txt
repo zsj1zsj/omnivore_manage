@@ -1,0 +1,4 @@
+omnivoreql
+langchain
+openai
+anthropic
